@@ -8,6 +8,8 @@ Please extract the contents models package here - ~/gz_ws/src/ardupilot_gazebo/m
 
 make launch.sh an executable
 
+put the files in default_params here - ~/ardupilot/Tools/autotest/deafult_params
+
 NOTE - ignore any param / mav / logs / terrain files they are autocreated by mavsdk
 
 ## To run
