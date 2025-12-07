@@ -1,9 +1,13 @@
 ## Setup
 
 Please put vehicleinfo.py here - ~/ardupilot/Tools/autotest/pysim (or wherever you have installed ardupilot)
+
 Please put iris_runway.sdf here - ~/gz_ws/src/ardupilot_gazebo/worlds
+
 Please extract the contents models package here - ~/gz_ws/src/ardupilot_gazebo/models
+
 make launch.sh an executable
+
 NOTE - ignore any param / mav / logs / terrain files they are autocreated by mavsdk
 
 ## To run
